@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+httpx
+pyjwt
+python-decouple
+pytest
+requests
